@@ -12,16 +12,15 @@
     --portfolio-buttons-bg-color: #F5F4FA;
 }
 
-ul {
-    list-style: none;
-}
-
 .body {
     color: var(--primary-text-color);
     background-color: var(--background-page-color);
     font-family: 'Roboto', sans-serif;
 }
 
+ul {
+    list-style: none;
+}
 
 
 /* header */
